@@ -7,6 +7,15 @@ plugins {
 group = 'br.com.fiap'
 version = '0.0.1-SNAPSHOT'
 
+jar {
+    enabled = false
+}
+
+bootJar {
+    enabled = true
+}
+
+
 java {
     toolchain {
         languageVersion = JavaLanguageVersion.of(21)
