@@ -196,3 +196,10 @@ O corpo da requisição **deve ser raw text** contendo a rotina editada.
 
 
 ---
+
+## Links
+- Link de acesso ao Railway:  https://railway.com/invite/tyL9fkw6OTJ 
+- Link do deploy: https://flowmindjava-production.up.railway.app/
+- Link do vídeo individual;
+- Link do vídeo do projeto:
+- 
