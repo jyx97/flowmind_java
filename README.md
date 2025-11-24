@@ -201,5 +201,5 @@ O corpo da requisição **deve ser raw text** contendo a rotina editada.
 - Link de acesso ao Railway:  https://railway.com/invite/tyL9fkw6OTJ 
 - Link do deploy: https://flowmindjava-production.up.railway.app/
 - Link do vídeo individual; https://youtu.be/b7EZ-QY3eWw
-- Link do vídeo do projeto:
-- 
+- Link do vídeo do projeto: https://youtu.be/x7wxnQHPh1M
+
